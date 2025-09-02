@@ -20,6 +20,13 @@ dependencies = [
     "httpx>=0.25.0",
     "uvicorn>=0.24.0",
     "starlette>=0.28.0",
+    "langchain-pinecone>=0.2.11",
+    "langchain-mistralai>=0.2.11",
+    "faiss-cpu>=1.11.0.post1",
+    "langchain-community>=0.3.27",
+    "unstructured>=0.18.11",
+    "langsmith>=0.4.8",
+    "openai>=1.97.1",
 ]
 
 [dependency-groups]
